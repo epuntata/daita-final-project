@@ -58,7 +58,7 @@ Aggiungi note su come usare il sistema.
 
 - Baldoni  Eugenia
 - Scrima William
-
+- De Cales Giovanni
 ## 🎉 Riconoscimenti <a name = "acknowledgments"></a>
 
 - Grazie a Christian Iozzi per averci ispirati
