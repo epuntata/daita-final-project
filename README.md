@@ -56,9 +56,10 @@ Aggiungi note su come usare il sistema.
 
 ## ✍️ Autori <a name = "authors"></a>
 
-- Baldoni Eugenia
+- Baldoni  Eugenia
+- Scrima William
+- De Cales Giovanni
 - Rossi Eleonora
-
 
 ## 🎉 Riconoscimenti <a name = "acknowledgments"></a>
 
