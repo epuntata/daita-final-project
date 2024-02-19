@@ -56,8 +56,8 @@ Aggiungi note su come usare il sistema.
 
 ## ✍️ Autori <a name = "authors"></a>
 
-- Baldoni Eugenia
-
+- Baldoni  Eugenia
+- Scrima William
 
 ## 🎉 Riconoscimenti <a name = "acknowledgments"></a>
 
