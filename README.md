@@ -120,6 +120,7 @@ Decomprimere il file nella cartella desiderata, poi aprire la cartella in Visual
 - Scrima William
 - De Cales Giovanni
 - Rossi Eleonora
+- Anas Chaya 
 
 ## 🎉 Riconoscimenti <a name = "acknowledgments"></a>
 
