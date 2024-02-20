@@ -40,7 +40,15 @@ Una volta che le sezioni ideale, realtà e conseguenze sono state completate, e 
 
 ## 🏁 Come Iniziare <a name = "getting_started"></a>
 
-Queste istruzioni ti daranno una copia del progetto funzionante sul tuo computer locale per scopi di sviluppo e testing. Vedi [deployment](#deployment) per istruzioni su come deployare il progetto.
+### Per vedere solo la dashboard in PowerBI
+
+Scaricare il file adv.pbix dalla cartella [PowerBi](./powerbi)
+
+### Per eseguire il codice
+
+Scaricare il contenuto della repository come file ZIP.
+![come_iniziare_zip](./res/come_iniziare_zip.PNG)
+Decomprimere il file nella cartella desiderata, poi aprire la cartella in Visual Studio Code. Potrebbe essere necessario installare alcune estensioni per aprire e/o eseguire alcuni tipi di file (es file Jupyter)
 
 ## 🎈 Utilizzo <a name="usage"></a>
 
