@@ -2,5 +2,6 @@
 *.sql linguist-language=sql
 *.sql text
 
-*.rmd  linguist-detectable
-*.Rmd  linguist-detectable
+*.rmd  linguist-detectable=true
+*.Rmd  linguist-detectable=true
+*r linguist-detectable=true
