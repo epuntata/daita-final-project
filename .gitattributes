@@ -4,4 +4,5 @@
 
 *.rmd  linguist-detectable=true
 *.Rmd  linguist-detectable=true
-*r linguist-detectable=true
+*.R linguist-detectable=true
+*.R linguist-linguage=R
