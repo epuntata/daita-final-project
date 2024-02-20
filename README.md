@@ -66,7 +66,7 @@ Restituisce la seguente tabella:
 
 ### Data exploration
 
-Tornando su Jupyter, abbiamo esplorato il nostro dataset vedendo quali potessero essere eventuali relazioni tra le variabili.
+Tornando su Jupyter, abbiamo esplorato il nostro dataset ([04_data_exploration](./04_data_exploration.ipynb)) usando librerie Python come Seaborn e Matplotlib per vedere in forma grafica quali potessero essere eventuali relazioni tra le variabili.
 
 Ad esempio, abbiamo prodotto una heatmap che mostra chiaramente un alta correlazione tra le vendite (Sales) e il budget per la televisione (TV); potrebbe valere la pena esplorare meglio questa relazione.
 
@@ -90,7 +90,7 @@ Ad esempio, abbiamo prodotto una heatmap che mostra chiaramente un alta correlaz
 
 ## 🎈 Utilizzo <a name="usage"></a>
 
-### Per vedere solo la dashboard in PowerBI
+### Per vedere la dashboard in PowerBI
 
 Scaricare il file adv.pbix dalla cartella [PowerBi](./PowerBi)
 
@@ -116,11 +116,13 @@ Decomprimere il file nella cartella desiderata, poi aprire la cartella in Visual
 
 ## ✍️ Autori <a name = "authors"></a>
 
-- Baldoni  Eugenia
+- Baldoni Eugenia
 - Scrima William
 - De Cales Giovanni
 - Rossi Eleonora
-- Anas Chaya 
+- Anas Chaya
+- Roma Marco
+- Murgo Francesco
 
 ## 🎉 Riconoscimenti <a name = "acknowledgments"></a>
 
