@@ -36,8 +36,13 @@ Abbiamo inizialmente ricevuto 4 file di formati diversi: due file CSV, un file X
 | --- | --- | --- |
 | ![csv](./res/file_file_csv_1.PNG) | ![xls](./res/file_file_xls.PNG) | ![sql](./res/file_file_sql.PNG)
 
-Ad una prima occhiata, appare possibile combinare tutti i dati in un singolo dataset; possibilità che è stata esplorata con l'aiuto di Python.
+Ad una prima occhiata, appare possibile combinare tutti i dati in un singolo dataset; la possibilità è stata esplorata con l'aiuto di Python.
 
+### Python e Jupyter: una ETL
+
+Per prima cosa, dovevamo velocemente testare come poter leggere i file: a questo scopo è stato creato il notebook [01_data_collection](./01_data_collection.ipynb) per aprire, leggere e trasformare i file.
+
+Dopo aver testato una possibile soluzione con tale notebook, è stata creata un file Python [02_ETL_pipeline](./02_ETL_pipeline.py) per astrarre e, in futuro, automatizzare l'operazione, nel caso ricevessimo nuovi file, o i file che abbiamo venissero aggiornati.
 
 ## ⛓️ Dipendenze / Limitazioni <a name = "limitations"></a>
 
