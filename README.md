@@ -84,11 +84,7 @@ Ad esempio, abbiamo prodotto una heatmap che mostra chiaramente un alta correlaz
 
 ## 🚩 Limitazioni <a name = "limitations"></a>
 
-- Quali sono le dipendenze del tuo progetto?
-- Descrivi ogni limitazione in termini dettagliati ma concisi
-- Spiega il motivo dell'esistenza di ogni limitazione
-- Fornisci le ragioni per cui ogni limitazione non poteva essere superata con il metodo scelto.
-- Valuta l'impatto di ogni limitazione in relazione ai ritrovamenti e conclusioni del tuo progetto, e se adeguato, descrivi come queste limitazioni potrebbero indicare al bisogno di ricerche ulteriori.
+- La quantità di spunti di riflessione rilevanti per il business è stata inferiore alle previsioni; forse il dataset era troppo piccolo (solo 200 righe), o forse mancavano dati aggiuntivi che potessero aggiungere profondità alla ricerca.
 
 <p align="right">(<a href="#indice">back to top</a>)</p>
 
