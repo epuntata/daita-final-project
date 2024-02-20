@@ -24,11 +24,20 @@
 
 Il cliente ha richiesto l'analisi di alcuni dati per capire quanto vale la pena investire in pubblicità, e quali canali sono i più appropriati.
 
-## 💡 Idea <a name = "idea"></a>
+## 💡 Soluzione <a name = "idea"></a>
 
-Questa sezione è utilizzata per descrivere potenziali soluzioni.
+Per analizzare i dati, abbiamo sviluppato una pipeline per portare i dati dai file originali alla nostra dashboard in PowerBi, dove possiamo mostrare i risultati delle nostre analisi.
 
-Una volta che le sezioni ideale, realtà e conseguenze sono state completate, e capite, diventa facile fornire una soluzione al problema.
+### Ricezione dei file
+
+Abbiamo inizialmente ricevuto 4 file di formati diversi: due file CSV, un file XLS, e un file SQL.
+
+| CSV | XLS | SQL |
+| --- | --- | --- |
+| ![csv](./res/file_file_csv_1.PNG) | ![xls](./res/file_file_xls.PNG) | ![sql](./res/file_file_sql.PNG)
+
+Ad una prima occhiata, appare possibile combinare tutti i dati in un singolo dataset; possibilità che è stata esplorata con l'aiuto di Python.
+
 
 ## ⛓️ Dipendenze / Limitazioni <a name = "limitations"></a>
 
