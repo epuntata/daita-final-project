@@ -16,7 +16,6 @@
 - [Soluzione](#idea)
 - [Limitazioni](#limitations)
 - [Utilizzo](#usage)
-- [Come iniziare](#getting_started)
 - [Tecnologie Utilizzate](#tech_stack)
 - [Autori](#authors)
 - [Riconoscimenti](#acknowledgments)
@@ -46,6 +45,8 @@ Per prima cosa, dovevamo velocemente testare come poter leggere i file: a questo
 
 Dopo aver testato una possibile soluzione con tale notebook, è stata creata un file Python [02_ETL_pipeline](./02_ETL_pipeline.py) per astrarre e, in futuro, automatizzare l'operazione, nel caso ricevessimo nuovi file, o i file che abbiamo venissero aggiornati.
 
+### Data exploration
+
 <p align="right">(<a href="#indice">back to top</a>)</p>
 
 ## 🚩 Limitazioni <a name = "limitations"></a>
@@ -58,7 +59,7 @@ Dopo aver testato una possibile soluzione con tale notebook, è stata creata un 
 
 <p align="right">(<a href="#indice">back to top</a>)</p>
 
-## 🏁 Come Iniziare <a name = "getting_started"></a>
+## 🎈 Utilizzo <a name="usage"></a>
 
 ### Per vedere solo la dashboard in PowerBI
 
@@ -67,14 +68,10 @@ Scaricare il file adv.pbix dalla cartella [PowerBi](./powerbi)
 ### Per eseguire il codice
 
 Scaricare il contenuto della repository come file ZIP.
+
 ![come_iniziare_zip](./res/come_iniziare_zip.PNG)
+
 Decomprimere il file nella cartella desiderata, poi aprire la cartella in Visual Studio Code. Potrebbe essere necessario installare alcune estensioni per aprire e/o eseguire alcuni tipi di file (es file Jupyter)
-
-<p align="right">(<a href="#indice">back to top</a>)</p>
-
-## 🎈 Utilizzo <a name="usage"></a>
-
-Aggiungi note su come usare il sistema.
 
 <p align="right">(<a href="#indice">back to top</a>)</p>
 
@@ -97,6 +94,7 @@ Aggiungi note su come usare il sistema.
 
 ## 🎉 Riconoscimenti <a name = "acknowledgments"></a>
 
+- Grazie a Generation Italy per il corso di Junior Data Engineer, senza il quale non avremmo realizzato questo progetto
 - Grazie a Christian Iozzi per averci ispirati
 
 <p align="right">(<a href="#indice">back to top</a>)</p>
