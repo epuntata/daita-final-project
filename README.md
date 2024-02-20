@@ -12,7 +12,7 @@
 
 ## 📝 Indice <a name = "indice"></a>
 
-- [Testo del Problema](#problem_statement)
+- [Problema](#problem_statement)
 - [Soluzione](#idea)
 - [Limitazioni](#limitations)
 - [Utilizzo](#usage)
@@ -20,7 +20,7 @@
 - [Autori](#authors)
 - [Riconoscimenti](#acknowledgments)
 
-## 🧐 Testo del Problema <a name = "problem_statement"></a>
+## 🧐 Problema <a name = "problem_statement"></a>
 
 Il cliente ha richiesto l'analisi di alcuni dati per capire quanto vale la pena investire in pubblicità, e quali canali sono i più appropriati.
 <p align="right">(<a href="#indice">back to top</a>)</p>
@@ -45,7 +45,28 @@ Per prima cosa, dovevamo velocemente testare come poter leggere i file: a questo
 
 Dopo aver testato una possibile soluzione con tale notebook, è stata creata un file Python [02_ETL_pipeline](./02_ETL_pipeline.py) per astrarre e, in futuro, automatizzare l'operazione, nel caso ricevessimo nuovi file, o i file che abbiamo venissero aggiornati.
 
+### Data Lake
+
+Una volta ottenuto il nostro dataset finale [result](./result.csv), abbiamo creato un database MySQL per salvare i nostri dati. I comandi per la creazione di tale database si possono trovare nel file [03_database](./03_database.sql).
+
+Da questo database possiamo ora eseguire query; ad esempio, la query:
+
+```SQL
+SELECT MIN(Sales), MAX(Sales), AVG(Sales)
+FROM adv_data.dati;
+```
+
+Restituisce la seguente tabella:
+
+| MIN(Sales) | MAX(Sales) | AVG(Sales) |
+| --- | --- | --- |
+| 2 | 999 | 20.1600 |
+
+<img src="./res/data_mysql_sales.PNG" width="380">
+
 ### Data exploration
+
+
 
 <p align="right">(<a href="#indice">back to top</a>)</p>
 
