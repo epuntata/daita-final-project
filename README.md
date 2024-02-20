@@ -78,7 +78,13 @@ Ad esempio, abbiamo prodotto una heatmap che mostra chiaramente un alta correlaz
 
 ### PowerBI
 
-?
+Usando PowerBI abbiamo caricato i dati e tramite Power Query ripuliti dai dati anomali riscontrati nelle prime analisi fatte.
+
+Procediamo poi ad effettuare varie analisi grafiche riportando quelle più significative Es. la suddivisione delle spese e del fatturato.
+
+| Dato Anomalo in evidenza | Data Cleaning con Power Query |
+| --- | --- | 
+| ![dato](./res/dato%20anomalo%20in%20evidenza.png) | ![cleaning](./res/data%20cleaning%20power%20bi.JPG)
 
 <p align="right">(<a href="#indice">back to top</a>)</p>
 
