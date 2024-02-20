@@ -1,11 +1,11 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5fecd8a344198b00014a586f/0x0.png" alt="Project logo"></a>
+ <img src="./res/hero-partner-genitaly-2x.png" alt="Project logo"></a>
 </p>
 <h3 align="center">Pubblicità</h3>
 
 <p align="center"> Un progetto di data engineering per l'analisi di pubblicità
-    <br> 
+  <br> 
 </p>
 
 ---
