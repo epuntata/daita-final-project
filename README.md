@@ -43,7 +43,7 @@ Ad una prima occhiata, appare possibile combinare tutti i dati in un singolo dat
 
 Per prima cosa, dovevamo velocemente testare come poter leggere i file: a questo scopo è stato creato il notebook [01_data_collection](./01_data_collection.ipynb) per aprire, leggere e trasformare i file.
 
-Dopo aver testato una possibile soluzione con tale notebook, è stata creata un file Python [02_ETL_pipeline](./02_ETL_pipeline.py) per astrarre e, in futuro, automatizzare l'operazione, nel caso ricevessimo nuovi file, o i file che abbiamo venissero aggiornati.
+Dopo aver testato una possibile soluzione con tale notebook, è stato creato un file Python [02_ETL_pipeline](./02_ETL_pipeline.py) per astrarre ed eventualmente automatizzare l'operazione, nel caso ricevessimo nuovi file, o nel caso i file che abbiamo venissero aggiornati.
 
 ### Data Lake
 
@@ -66,7 +66,19 @@ Restituisce la seguente tabella:
 
 ### Data exploration
 
+Tornando su Jupyter, abbiamo esplorato il nostro dataset vedendo quali potessero essere eventuali relazioni tra le variabili.
 
+Ad esempio, abbiamo prodotto una heatmap che mostra chiaramente un alta correlazione tra le vendite (Sales) e il budget per la televisione (TV); potrebbe valere la pena esplorare meglio questa relazione.
+
+![heatmap](./res/exploration_output1.png)
+
+### Data Science (R)
+
+?
+
+### PowerBI
+
+?
 
 <p align="right">(<a href="#indice">back to top</a>)</p>
 
@@ -84,7 +96,7 @@ Restituisce la seguente tabella:
 
 ### Per vedere solo la dashboard in PowerBI
 
-Scaricare il file adv.pbix dalla cartella [PowerBi](./powerbi)
+Scaricare il file adv.pbix dalla cartella [PowerBi](./PowerBi)
 
 ### Per eseguire il codice
 
