@@ -57,7 +57,7 @@ FROM adv_data.dati;
 ```
 
 Restituisce la seguente tabella:
-
+  
 | MIN(Sales) | MAX(Sales) | AVG(Sales) |
 | --- | --- | --- |
 | 2 | 999 | 20.1600 |
