@@ -14,5 +14,15 @@ CREATE TABLE dati (
 	Sales INT, 
 	TV FLOAT, 
 	Actor VARCHAR(5)
-)
+);
 
+CREATE INDEX sales ON dati (Sales);
+
+SELECT MAX(Radio), MAX(Newspaper), MAX(TV), MAX(Social)
+FROM adv_data.dati;
+
+SELECT MIN(Radio), MIN(Newspaper), MIN(TV), MIN(Social)
+FROM adv_data.dati;
+
+SELECT MIN(Sales), MAX(Sales), AVG(Sales)
+FROM adv_data.dati;

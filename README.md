@@ -1,11 +1,11 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5fecd8a344198b00014a586f/0x0.png" alt="Project logo"></a>
+ <img src="./res/hero-partner-genitaly-2x.png" alt="Project logo"></a>
 </p>
 <h3 align="center">Pubblicità</h3>
 
 <p align="center"> Un progetto di data engineering per l'analisi di pubblicità
-    <br> 
+  <br> 
 </p>
 
 ---
@@ -66,7 +66,7 @@ Restituisce la seguente tabella:
 
 ### Data exploration
 
-Tornando su Jupyter, abbiamo esplorato il nostro dataset vedendo quali potessero essere eventuali relazioni tra le variabili.
+Tornando su Jupyter, abbiamo esplorato il nostro dataset ([04_data_exploration](./04_data_exploration.ipynb)) usando librerie Python come Seaborn e Matplotlib per vedere in forma grafica quali potessero essere eventuali relazioni tra le variabili.
 
 Ad esempio, abbiamo prodotto una heatmap che mostra chiaramente un alta correlazione tra le vendite (Sales) e il budget per la televisione (TV); potrebbe valere la pena esplorare meglio questa relazione.
 
@@ -78,7 +78,13 @@ Ad esempio, abbiamo prodotto una heatmap che mostra chiaramente un alta correlaz
 
 ### PowerBI
 
-?
+Usando PowerBI abbiamo caricato i dati e tramite Power Query ripuliti dai dati anomali riscontrati nelle prime analisi fatte.
+
+Procediamo poi ad effettuare varie analisi grafiche riportando quelle più significative Es. la suddivisione delle spese e del fatturato.
+
+| Dato Anomalo in evidenza | Data Cleaning con Power Query |
+| --- | --- | 
+| ![dato](./res/dato%20anomalo%20in%20evidenza.png) | ![cleaning](./res/data%20cleaning%20power%20bi.JPG)
 
 <p align="right">(<a href="#indice">back to top</a>)</p>
 
@@ -90,7 +96,7 @@ Ad esempio, abbiamo prodotto una heatmap che mostra chiaramente un alta correlaz
 
 ## 🎈 Utilizzo <a name="usage"></a>
 
-### Per vedere solo la dashboard in PowerBI
+### Per vedere la dashboard in PowerBI
 
 Scaricare il file adv.pbix dalla cartella [PowerBi](./PowerBi)
 
@@ -116,11 +122,13 @@ Decomprimere il file nella cartella desiderata, poi aprire la cartella in Visual
 
 ## ✍️ Autori <a name = "authors"></a>
 
-- Baldoni  Eugenia
+- Baldoni Eugenia
 - Scrima William
 - De Cales Giovanni
 - Rossi Eleonora
-- Anas Chaya 
+- Anas Chaya
+- Roma Marco
+- Murgo Francesco
 
 ## 🎉 Riconoscimenti <a name = "acknowledgments"></a>
 
