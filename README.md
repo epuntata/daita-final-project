@@ -134,5 +134,6 @@ Decomprimere il file nella cartella desiderata, poi aprire la cartella in Visual
 
 - Grazie a Generation Italy per il corso di Junior Data Engineer, senza il quale non avremmo realizzato questo progetto
 - Grazie a Christian Iozzi per averci ispirati
+- Grazie a Francesco Del Pizzo e Simone Migliorisi per il supporto morale durante lo sviluppo
 
 <p align="right">(<a href="#indice">back to top</a>)</p>
