@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="./res/hero-partner-genitaly-2x.png" alt="Project logo"></a>
+ <img src="./res/banner_Project_Work.png" alt="Project logo"></a>
 </p>
 <h3 align="center">Pubblicità</h3>
 
