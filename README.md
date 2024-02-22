@@ -114,6 +114,16 @@ Decomprimere il file nella cartella desiderata, poi aprire la cartella in Visual
 
 ## ⛏️ Costruito con <a name = "tech_stack"></a>
 
+
+<p align="center">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=4584b6"/>
+<img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=f29111"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=ABACB1"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=221F1F"/></p>
+
+---
+
 - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) - Testing
 - ![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=4584b6) - Creazione ETL
 - ![mySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=f29111) - Database
@@ -127,6 +137,7 @@ Decomprimere il file nella cartella desiderata, poi aprire la cartella in Visual
 - ![mySQL](https://img.shields.io/badge/MySQL-00758f?style=Flat&logo=mysql&logoColor=f29111) - Database
 - ![R](https://img.shields.io/badge/R-276DC3?style=Flat&logo=r&logoColor=ABACB1) - Data Science
 - ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=Flat&logo=Power%20BI&logoColor=221F1F) - Data Visualization
+
 
 <p align="right">(<a href="#indice">back to top</a>)</p>
 
