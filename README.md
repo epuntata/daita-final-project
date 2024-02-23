@@ -135,7 +135,7 @@ Decomprimere il file nella cartella desiderata, poi aprire la cartella in Visual
 
 ## ✍️ Autori <a name = "authors"></a>
 
-- Baldoni Eugenia
+- Baldoni Eugenia ([@niaBaldoni](https://github.com/niaBaldoni))
 - Scrima William
 - De Cales Giovanni
 - Rossi Eleonora
